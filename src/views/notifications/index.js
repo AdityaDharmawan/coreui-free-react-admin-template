@@ -1,4 +1,4 @@
-import Alerts from './Alerts'
+import Alerts from './alerts'
 import Badges from './Badges'
 import Modals from './Modals'
 import Toaster from './toasts'

@@ -228,12 +228,12 @@ const _nav = [
   },
   {
     component: CNavGroup,
-    name: 'Notifications',
+    name: 'Accounting',
     icon: <CIcon icon={cilBell} customClassName="nav-icon" />,
     items: [
       {
         component: CNavItem,
-        name: 'Alerts',
+        name: 'Add Group',
         to: '/notifications/alerts',
       },
       {
